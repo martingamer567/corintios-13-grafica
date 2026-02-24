@@ -220,6 +220,7 @@ body {
     color: #777;
 }
 
+
 /* --- RESPONSIVE ADJUSTMENTS --- */
 @media (max-width: 768px) {
     .header {
